@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kokohri
-- 👀 I’m interested in minecraft developing
+- 👀 I’m interested in minecraft and discord developing
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me in discord: @kokohri_
-- 😄 Pronouns: kokito
+- 😄 Pronouns: koki
 - ⚡ Fun fact: im a good person
