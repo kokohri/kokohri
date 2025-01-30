@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kokohri
 - 👀 I’m interested in minecraft and discord developing
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning html, java, NodeJS, CSS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me in discord: @kokohri_
 - 😄 Pronouns: koki
